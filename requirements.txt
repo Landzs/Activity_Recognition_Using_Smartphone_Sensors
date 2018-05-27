@@ -1,0 +1,7 @@
+theano
+numpy
+pyyaml
+pandas
+scikit-learn
+sklearn
+openpyxl
